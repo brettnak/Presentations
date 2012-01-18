@@ -25,35 +25,35 @@
 ## Intarvals
  - When we talk about music, we usually talk about notes and chords relative to each other, not in the absolute terms of note names like C, D, E, etc.
  - The distance between notes
-  - Maseured by degree of the major or minor scale with some stupidity from history.
-   - Root
-   - Flat Second
-    - Diminished Second
-    - Minor Second ( Not actually related to the minor scale, but related to the Phrygian mode... )
-    - Half Step
-    - Semitone
-   - Major Second
-    - Whole Tone
-   - Minor Third
-   - Major Third
-   - Perfect Fourth
-   	- Same in both Major, Minor, Phrygian, and Chromatic
-   - Dminished Fifth / Augmented Fourth
-    - Flat Fifth
-    - Sharp Fourth
-   - Perfect Fifth
-  	- Same in both Major, Minor, Phrygian, and Chromatic
-   - Minor Sixth
-    - Fun Fact: The minor sixth chord does not have a minor sixth in it.
-   - Major Sixth
-    - Diminished Seventh
-   - Minor / Dominant Seventh
-   - Major Seventh
-   - Octave ( Perfect )
-  	- Same in both Major, Minor, Phrygian, and Chromatic
-    - No one ever says Perfect Octave
-   - ... We can go on
-    - Flat 9, 9, ...
+ - Maseured by degree of the major or minor scale with some stupidity from history.
+  - Root
+  - Flat Second
+   - Diminished Second
+   - Minor Second ( Not actually related to the minor scale, but related to the Phrygian mode... )
+   - Half Step
+   - Semitone
+  - Major Second
+   - Whole Tone
+  - Minor Third
+  - Major Third
+  - Perfect Fourth
+   - Same in both Major, Minor, Phrygian, and Chromatic
+  - Dminished Fifth / Augmented Fourth
+   - Flat Fifth
+   - Sharp Fourth
+  - Perfect Fifth
+   - Same in both Major, Minor, Phrygian, and Chromatic
+  - Minor Sixth
+   - Fun Fact: The minor sixth chord does not have a minor sixth in it.
+  - Major Sixth
+   - Diminished Seventh
+  - Minor / Dominant Seventh
+  - Major Seventh
+  - Octave ( Perfect )
+   - Same in both Major, Minor, Phrygian, and Chromatic
+   - No one ever says Perfect Octave
+  - ... We can go on
+   - Flat 9, 9, ...
 
 ## Arpeggios
  - Chord symbols indicate Arpeggios
