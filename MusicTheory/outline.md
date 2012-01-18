@@ -52,8 +52,6 @@
   - Octave ( Perfect )
    - Same in both Major, Minor, Phrygian, and Chromatic
    - No one ever says Perfect Octave
-  - ... We can go on
-   - Flat 9, 9, ...
 
 ## Arpeggios
  - Chord symbols indicate Arpeggios
